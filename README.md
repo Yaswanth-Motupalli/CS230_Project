@@ -1,1 +1,1 @@
-# CS230_Project
+In this repository we have included folders of champsim along with our code implemented.In branch it contains a tage folder which contains tage.cc file.This tage.cc is our implementation of tage branch predictor.Comparision_plots folder contain plots of comparing IPC and MPKI values of different branch predictor for each dpc3 trace.Slides folder our presentations of this project.
